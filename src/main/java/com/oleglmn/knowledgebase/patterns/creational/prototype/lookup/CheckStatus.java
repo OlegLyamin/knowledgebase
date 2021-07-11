@@ -12,9 +12,6 @@ public class CheckStatus {
     }
 
     public void getStatus() {
-
-
-
         Status status = initStatus();
         status.setStatus("New status");
 
